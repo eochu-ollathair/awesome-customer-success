@@ -90,6 +90,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Hotjar](https://www.hotjar.com/)** - Heatmaps and user feedback to understand behavior.
 - **[feedback.tools](https://feedback.tools/)** - AI-powered platform to capture, organize, and prioritize user feedback from all channels.
 - **[Quackback](https://quackback.io/)** - Open source feedback platform with voting boards, public roadmaps, and changelogs.
+- **[Dagmor](https://dagmor.app/)** - Reviews recorded customer calls and keeps people's words beside their survey answers and scores.
 
 ## Data Analytics and Business Intelligence
 
